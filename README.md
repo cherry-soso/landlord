@@ -1,6 +1,6 @@
 # landlord
 landlord is chinese tranditional game
-##The main features of the Landlord Fighting game include:
+## The main features of the Landlord Fighting game include:
 1. Login
 2. Game Hall
 3. Create and join the game room
