@@ -12,9 +12,8 @@ Props involved; Clothing, pipes, cigars, assistants, bodyguards, delicacies and 
 8. Players can also exchange gifts and trade items with each other
 
 ## The game design scenario is as follows:
-<img src='./ui/001.png'/>
 <img src='https://static.zklion.com/img/001.png'/>
-<img src='ui/001.png'></img>   
+
 <img src='https://static.zklion.com/img/002.png'/>
 
 <img src='https://static.zklion.com/img/003.png'/>
