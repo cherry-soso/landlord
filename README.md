@@ -10,3 +10,4 @@ landlord is chinese tranditional game
 7. Prop Hall: Prop display, Aleo chain at prop trade fair, which not only protects user privacy but also increases the value of props,
 Props involved; Clothing, pipes, cigars, assistants, bodyguards, delicacies and snacks from various countries
 8. Players can also exchange gifts and trade items with each other
+   
