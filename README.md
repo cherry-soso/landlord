@@ -14,4 +14,15 @@ Props involved; Clothing, pipes, cigars, assistants, bodyguards, delicacies and 
 ## The game design scenario is as follows:
 <img src='./ui/001.png'/>
 <img src='https://static.zklion.com/img/001.png'/>
-<img src='ui/01.png'></img>   
+<img src='ui/001.png'></img>   
+<img src='https://static.zklion.com/img/002.png'/>
+
+<img src='https://static.zklion.com/img/003.png'/>
+
+<img src='https://static.zklion.com/img/004.png'/>
+
+<img src='https://static.zklion.com/img/005.png'/>
+
+<img src='https://static.zklion.com/img/006.png'/>
+
+
